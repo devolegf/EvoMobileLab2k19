@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Notes for Evo Mobile Lab 2019</string>
+    <string name="AppTitle">Заметки</string>
+    <string name="edit_create_note">Edit/CreateNote</string>
+    <string name="action_sort_new_first_title">От новых к старым</string>
+    <string name="action_sort_old_first_title">От старых к новым</string>
 </resources>
